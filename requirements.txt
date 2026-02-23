@@ -1,1 +1,3 @@
-pyshorteners
+qrcode
+Pillow
+pyzbar
